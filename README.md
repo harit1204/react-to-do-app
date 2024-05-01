@@ -11,8 +11,5 @@ $ npm install
 $ npm start
 ```
 
-## Prerequisites
-You will need the alpha build of React as this feature is still in alpha (as at the time of writing this article). You also need NPM and Node.js installed locally.
-
 ## Built With
 [React]("https://reactjs.org/") - JavaScript framework.
